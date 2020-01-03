@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 4fcee3b1841c34cd497b10e3eeb7a66d
+timeCreated: 1526843376
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A_Crystal
+    100002: Shadow
+    100004: //RootNode
+    100006: A_Crystal
+    100008: A_Crystal
+    100010: A_Crystal
+    100012: default
+    400000: A_Crystal
+    400002: Shadow
+    400004: //RootNode
+    400006: A_Crystal
+    400008: A_Crystal
+    400010: A_Crystal
+    400012: default
+    2300000: A_Crystal
+    2300002: Shadow
+    2300004: A_Crystal
+    2300006: A_Crystal
+    2300008: A_Crystal
+    2300010: default
+    3300000: A_Crystal
+    3300002: Shadow
+    3300004: A_Crystal
+    3300006: A_Crystal
+    3300008: A_Crystal
+    3300010: default
+    4300000: A_Crystal
+    4300002: Shadow
+    4300004: A_Crystal
+    4300006: A_Crystal
+    4300008: A_Crystal
+    4300010: default
+    6400000: A_Crystal
+    6400002: A_Crystal
+    6400004: default
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: A_Crystal
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.015
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton:
+    - name: currency(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: default
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
